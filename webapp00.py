@@ -13,4 +13,4 @@ st.header("Jesus salva, cura. liberta e ele voltará!")
 st.subheader("Apaz do senhor")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("ande sempre em vigilancia pois não saibais o dia e nem a hora que jesus irá  voltar! ")
+st.write("A Igreja Qudrangular esta localizada na avanida dr Armando Antonio de Otaviano")
