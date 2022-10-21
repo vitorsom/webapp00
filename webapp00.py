@@ -7,7 +7,7 @@ import streamlit as st
 st.title("Igreja do Evanjelho Quadrangular")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Jesus salva, cura, liberta e ele voltará!")
+st.header("Jesus salva, cura, liberta e ele embreve voltará!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Apaz do senhor")
